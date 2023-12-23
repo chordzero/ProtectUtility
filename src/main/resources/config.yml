@@ -1,0 +1,3 @@
+protect:
+  entity:
+    jumping_on_farmland: true

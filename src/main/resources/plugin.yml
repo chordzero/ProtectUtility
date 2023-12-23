@@ -1,0 +1,4 @@
+name: ProtectUtil
+version: '${version}'
+main: kr.kro.chordzero.protectutil.Main
+api-version: '1.20'
